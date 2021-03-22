@@ -1,0 +1,36 @@
+{
+  "_id": 522,
+  "first_name": "Raekwon",
+  "last_name": "McMillan",
+  "mi": "A",
+  "enroll": [
+    {
+      "_id": 5858,
+      "grade": "A",
+      "class": [
+        {
+          "_id": 46446,
+          "name": "Web-335"
+        },
+        {
+          "_id": 54554,
+          "name": "Web-420"
+        }
+      ]
+    },
+    {
+      "_id": 2355,
+      "grade": "A",
+      "class": [
+        {
+          "_id": 43974,
+          "name": "Web-330"
+        },
+        {
+          "_id": 47896,
+          "name": "Web340"
+        }
+      ]
+    }
+  ]
+}
