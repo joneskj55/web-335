@@ -1,0 +1,50 @@
+{
+  "publisher_name": "Manning",
+  "publisher_code": "47763",
+  "publisher_address": {
+    "street": "123 Street Dr.",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "11111"
+  },
+  "books": [
+    {
+      "book_name": "Express In Action",
+      "book_price": "23.33",
+      "book_isbn": "2233343",
+      "authors": [
+        {
+          "author_first_name": "Evan",
+          "author_last_name": "Hahn",
+          "author_phone": "355-222-6637",
+          "author_email": "hahn@mail.ru"
+        }
+      ]
+    },
+    {
+      "book_name": "MongoDB",
+      "book_price": "43.33",
+      "book_isbn": "5233743",
+      "authors": [
+        {
+          "author_first_name": "Shannon",
+          "author_last_name": "Bradshaw",
+          "author_phone": "111-222-3333",
+          "author_email": "brad@mail.ca"
+        },
+        {
+          "author_first_name": "Eoin",
+          "author_last_name": "Brazil",
+          "author_phone": "444-555-6666",
+          "author_email": "eoin@mail.tj"
+        },
+        {
+          "author_first_name": "Kristina",
+          "author_last_name": "Chodorow",
+          "author_phone": "777-888-9999",
+          "author_email": "kristi@mail.com"
+        }
+      ]
+    }
+  ]
+}
