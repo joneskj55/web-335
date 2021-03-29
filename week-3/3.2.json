@@ -1,0 +1,24 @@
+{
+  "user": "Flimdizzle",
+  "_id": 12332,
+  "firstName": "Albert",
+  "lastName": "Fleming",
+  "roles": [
+    {
+      "position": "developer",
+      "permissions": {
+        "admin": true,
+        "read": true,
+        "write": true
+      }
+    },
+    {
+      "position": "linguist",
+      "permissions": {
+        "admin": false,
+        "read": true,
+        "write": false
+      }
+    }
+  ]
+}
